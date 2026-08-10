@@ -29,20 +29,4 @@
     	"textAlignment"	"center"
     	"font"			"HudFontBig"
     }
-    "DamageAccountValueBG"
-    {
-    	"ControlName"	"CExLabel"
-    	"fieldName"		"DamageAccountValue"
-    	"xpos"			"99"
-    	"ypos"			"362"
-    	"zpos"			"1"
-    	"wide"			"100"
-    	"tall"			"26"
-    	"visible"		"1"
-    	"enabled"		"1"
-    	"labelText"		"%metal%"
-    	"textAlignment"	"center"
-    	"fgcolor"		"TransparentBlack" 
-    	"font"			"HudFontBig"
-    }
 }
