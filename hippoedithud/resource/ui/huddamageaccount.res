@@ -25,7 +25,7 @@
     	"visible"		"1"
     	"enabled"		"1"
     	"labelText"		"%metal%"
-        "fgcolor_override"  "255 255 0 150"
+        "fgcolor_override"  "255 255 0 70"
     	"textAlignment"	"center"
     	"font"			"HudFontBig"
     }
