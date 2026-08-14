@@ -1,1 +1,2 @@
+14aug26 - changed the item drop "view next" button to be absolutely massive to make deleting double war paint case drops easier
 9aug26 - added last damage dealt hud element
