@@ -1,3 +1,4 @@
+23aug26 - changed loading tips to be useful
 16aug26 - changed all the different medic call icons to be identical to the automatic medic call to take up less screenspace
 14aug26 - changed the item drop "view next" button to be absolutely massive to make deleting double war paint case + cosmetic case drops easier
 9aug26 - added last damage dealt hud element
