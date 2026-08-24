@@ -239,8 +239,8 @@
 "Tip_9_Count"				"5"
 "Tip_9_1"				"Build a Level 3 and don't pick it up or your team will lose."
 "Tip_9_2"				"Build a Level 3 and don't pick it up or your team will lose."
-"Tip_9_3"				"Place teleporters that they funnel your team into a variety of routes at the same time."
-"Tip_9_4"				"Place teleporters that they funnel your team into a variety of routes at the same time."
+"Tip_9_3"				"Place teleporters that funnel your team into a variety of routes at the same time."
+"Tip_9_4"				"Place teleporters that funnel your team into a variety of routes at the same time."
 "Tip_9_5"				"Play defense classes on the defense team."
 
 "Tip_arena_Count"			"1"
