@@ -202,32 +202,46 @@
 "chat_say_party"		"Say (PARTY) :"
 "Tip_Fmt"				"Tip: %s1"
 
-"Tip_1_Count"				"1"
+"Tip_1_Count"				"2"
 "Tip_1_1"				"Look at the enemies and shoot your gun to kill them."
+"Tip_1_2"				"Play offense classes on the offense team."
 
-"Tip_2_Count"				"1"
+"Tip_2_Count"				"2"
 "Tip_2_1"				"Look at the enemies and shoot your gun to kill them."
+"Tip_2_2"				"Play support classes when your team has a strong core to improve health economy and break holds."
 
-"Tip_3_Count"				"1"
+"Tip_3_Count"				"2"
 "Tip_3_1"				"Look at the enemies and shoot your gun to kill them."
+"Tip_3_2"				"Play offense classes on the offense team."
 
-"Tip_4_Count"				"1"
+"Tip_4_Count"				"2"
 "Tip_4_1"				"Look at the enemies and shoot your gun to kill them."
+"Tip_4_2"				"Play defense classes on the defense team."
 
-"Tip_5_Count"				"1"
+"Tip_5_Count"				"4"
 "Tip_5_1"				"If you aren't building an Ubercharge, press %changeclass% to do something else."
+"Tip_5_2"				"If you aren't building an Ubercharge, press %changeclass% to do something else."
+"Tip_5_3"				"Play support classes when your team has a strong core to improve health economy and break holds."
+"Tip_5_4"				"Play support classes when your team has a strong core to improve health economy and break holds."
 
-"Tip_6_Count"				"1"
+"Tip_6_Count"				"2"
 "Tip_6_1"				"Look at the enemies and shoot your gun to kill them."
+"Tip_6_2"				"Play defense classes on the defense team."
 
-"Tip_7_Count"				"1"
+"Tip_7_Count"				"2"
 "Tip_7_1"				"Look at the enemies and shoot your gun to kill them."
+"Tip_7_2"				"Play offense classes on the offense team."
 
-"Tip_8_Count"				"1"
+"Tip_8_Count"				"2"
 "Tip_8_1"				"Look at the enemies and shoot your gun to kill them."
+"Tip_8_2"				"Play support classes when your team has a strong core to improve health economy and break holds."
 
-"Tip_9_Count"				"1"
+"Tip_9_Count"				"5"
 "Tip_9_1"				"Build a Level 3 and don't pick it up or your team will lose."
+"Tip_9_2"				"Build a Level 3 and don't pick it up or your team will lose."
+"Tip_9_3"				"Place teleporters that they funnel your team into a variety of routes at the same time."
+"Tip_9_4"				"Place teleporters that they funnel your team into a variety of routes at the same time."
+"Tip_9_5"				"Play defense classes on the defense team."
 
 "Tip_arena_Count"			"1"
 "Tip_arena_1"			"Just don't die."
