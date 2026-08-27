@@ -1,3 +1,4 @@
+27aug26 - changed the item drop delete button to take up the whole screen
 24aug26 - lowered and compressed the size of the winpanel and removed the killstreak section
 23aug26 - changed loading tips to be useful
 16aug26 - changed all the different medic call icons to be identical to the automatic medic call to take up less screenspace
