@@ -201,6 +201,8 @@
 "chat_say_team"			"Say (TEAM) :"
 "chat_say_party"		"Say (PARTY) :"
 "Tip_Fmt"				"Tip: %s1"
+"TF_Contributed"				"%playername% got the stamp"
+"TF_DuelLeaderboard_Title"		" "
 
 "Tip_1_Count"				"2"
 "Tip_1_1"				"Look at the enemies and shoot your gun to kill them."
