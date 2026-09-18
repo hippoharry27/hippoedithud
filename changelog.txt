@@ -1,3 +1,4 @@
+18sept26 - removed map pictures from the loading screen
 17sept26 - removed the top duels leaderboard from loading screens
 5sept26 - removed performance report from loading screen and loadout menu and removed on the bright side messages (both mostly untested so hopefully it works)
 27aug26 - changed the item drop delete button to take up the whole screen
