@@ -2600,13 +2600,13 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"TipImage"
-		"xpos"			"c-285"
-		"ypos"			"412"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"12"
-		"wide"			"35"
-		"tall"			"35"
+		"wide"			"1"
+		"tall"			"1"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -2616,7 +2616,7 @@
 		"fieldName"		"TipText"
 		"font"			"ScoreboardVerySmall"
 		"font_hidef"	"Default"
-		"labelText"		"%tiptext%"
+		"labelText"		" "
 		"textAlignment"			"west"
 		"textAlignment_hidef"		"north-west"
 		"textAlignment_lodef"		"north-west"
@@ -2635,8 +2635,8 @@
 		"tall_lodef"	"60"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"wrap"			"1"
 	}
 	"NextTipButton" [$WIN32]
